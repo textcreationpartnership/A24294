@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a dangerous combination and monopoly upon the collier-trade in a letter from the country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24294</idno>
+            <idno type="STC">Wing A179</idno>
+            <idno type="STC">ESTC R6028</idno>
+            <idno type="EEBO-CITATION">11490529</idno>
+            <idno type="OCLC">ocm 11490529</idno>
+            <idno type="VID">47825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of a dangerous combination and monopoly upon the collier-trade in a letter from the country.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47825:1"/>
+            <pb n="1" facs="tcp:47825:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of a Dangerous <hi>Combination and Monopoly</hi> UPON THE COLLIER-TRADE.</head>
+            <head type="sub">In a LETTER from the Country.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am infinitely oblidg'd to you for the Welcome Notice you gave me of the Joyful Hopes and Wiſhes that appear in moſt Peoples Faces and Converſations, that the inſuing Par<g ref="char:EOLhyphen"/>liament, will move the King to enter into Treaties, and Alliances, for the preſervation of the Peace of <hi>Europe,</hi> againſt the formidable Conjunction of <hi>France</hi> and <hi>Spain.</hi> The beſt Return I can make you, for the Tranſporting News, is, an undoubtable Aſſurance that we in the Country keep Pace with you in the Town, and are not behind you, either in the Zeal nor the Gene<g ref="char:EOLhyphen"/>rality of our Diſpoſitions and Sentiments.</p>
+            <p>But ſince we are enter'd into the Theme of Foreign Alliances, I beg leave to give you ſome account of a Domeſtick one, upon the Collier-Trade, from which worſe Conſequences is to be fear'd to the Navigation, and all that depends upon it, and perhaps a great<g ref="char:EOLhyphen"/>er
+<pb n="2" facs="tcp:47825:2" rendition="simple:additions"/>Impoſition upon the City of <hi>London,</hi> and the Conſumption of Coal in general, and the Manufactures depending upon the uſe of Coal, than our Foreign Alliances will ſtand the Nation in, to ſecond them, and make them good; the Buſineſs is plainly thus.</p>
+            <p>There is a dangerous Combination and Monopoly ſet on Foot upon the Collier-Trade, which muſt lay one half of our Ships by the Walls, and Tax the Conſumption of Coal, at Home and A<g ref="char:EOLhyphen"/>broad, at the Diſcretion of Mr. <hi>Arthur Shallett,</hi> who is the unlucky Author of a more pernicious Project, than the Invention of our greateſt Enemies cou'd have found out againſt us, which is to this Effect.</p>
+            <p>This Project Mr. <hi>Shallett,</hi> after much Toil and Labour at laſt has brought the Majority of the Coal-Owners in the North, to give unto. This Project he has had in his Head (as is known to all that know him) for many Years: The General Articles were agreed to, in <hi>November</hi> laſt, betwixt him, and ſo many of the Coal-Owners in the North, as were then in Town; and theſe Articles have been ſince extended into Writings, and are Signed and Seal<g ref="char:EOLhyphen"/>ed by the Parties on one ſide, and t'other, which in ſubſtance are thus.</p>
+            <p n="1">1. The Coal-Owners on the one ſide oblige themſelves to <hi>Work</hi> nor <hi>Vend</hi> no greater quantity of Coals than Thirteen Thouſand <hi>Tenns</hi> of Coals, which is but 130000 Chaldrons of Coals, <hi>New-Caſtle</hi> Meaſure, and Two hundred and Sixty thouſand Chaldrons <hi>London</hi> Meaſure; Inſtead of Twenty three thouſand <hi>Tenns</hi> of Coals, which is 230000 Chaldron of Coals, <hi>New-Caſtle</hi> Meaſure, and 460000 Chaldron <hi>London</hi> Meaſure, (Rockoning at double Goal, as by this Project the Coal-Owners agree to Over-load their Keels, and have the Ships make out at <hi>London</hi>) which has been the Medium of the <hi>Vend</hi> of Coals ſince the War, from the Ri<g ref="char:EOLhyphen"/>ver <hi>Tine</hi> Coaſt-ways, and over Sea, and can never be leſs, unleſs this Project takes Effect.</p>
+            <p n="2">2. Theſe Coal-Owners agree to Sell or Diſpoſe of this quantity of Coals, to no Man or Company of Men but Mr. <hi>Shallett,</hi> or his Order.</p>
+            <p>On the other Part, Mr. <hi>Shallett</hi> agrees to take the foreſaid Thir<g ref="char:EOLhyphen"/>teen thouſand <hi>Tenns</hi> of Coals, and no leſs from the ſaid Coal-Owners
+<pb n="3" facs="tcp:47825:2" rendition="simple:additions"/>which is one Third leſs than the foreſaid Medium of the <hi>Vend</hi> or Export from the River <hi>Tine,</hi> but he obliges himſelf to Pay for every Chaldron of the ſaid 13000 <hi>Tenns,</hi> no leſs than Ten Shillings and Six Pence <hi>per</hi> Chaldron; and for ſome Eleven Shillings <hi>per</hi> Chaldron; which is one Fourth Part more than the beſt Coals in the River <hi>Tine</hi> have been Sold for, for many Years, and a Fifth Part more than the beſt Collieries can afford to Sell for, at Reaſonable Profit.</p>
+            <p>This is the main Buſineſs of the Combination, and that which chiefly concerns the Publick. I ſhall not trouble you with the De<g ref="char:EOLhyphen"/>tail of the private Parts of it, which contains the ſeveral Quota's of the Coal-Owners, which are to be Deliver'd by them, and Re<g ref="char:EOLhyphen"/>ceiv'd by Mr. <hi>Shallett,</hi> nor ſhall I trouble you with the Method agreed to deliver them at <hi>New-Caſtle,</hi> and to <hi>Vend</hi> them at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> which would take almoſt a Volume to Explain to you. But in genetal, I aſſure you my Friend, by this Combination, the Coal-Owners will receive a Fifth more Profit than reaſonably ought to be expected, and Mr. <hi>Shalett,</hi> being poſſeſs'd of all, or moſt of the Coals Exported from the River <hi>Tine,</hi> can ſet what Price upon the Coals at <hi>London</hi> be pleaſes, and where the thing will end no Body knows, for every Day they may advance the Price of Coals upon us; and thereby equal their Collieries in the North, to the Mines of <hi>Peru</hi> and <hi>Mexico,</hi> or the Trade round the Cape of <hi>Good Hope,</hi> and hereafter the Collier-Trade ſhall be Chriſten'd the <hi>Black-Indies,</hi> and Mr. <hi>Shallett</hi>'s Project upon it ſhall be enlarg'd into Companies, upon Joint-Stock.</p>
+            <p>The firſt ſight of this ſoul Buſineſs, my Friend, no doubt will raiſe both Horrour and Contempt; but, I aſſure you, the thing is Practicable upon the foremention'd Meaſures, and will take Effect. The Perſons concern'd in it, are Men of Conduct and Intereſt, and have Wit, and Addreſs to Colour, Countenance and Support moſt things they Undertake; and therefore I beg leave to give you the neceſſary Lights, I have into this dark Buſineſs in order to your prevention from being ſurprized, with what may be cunningly of<g ref="char:EOLhyphen"/>fer'd for the Juſtification of the Undertakers; and in doing of this, I ſhall have occaſion to give you ſome further Proſpect of the Conſe<g ref="char:EOLhyphen"/>quences of this fatal Combination.</p>
+            <p>But before I begin to Propoſe and Anſwer what the Combinators may ſay for themſelves, I deſire to diſcover unto you the Spring that gave Life to this Combination, and the Engine that ſet it
+<pb n="4" facs="tcp:47825:3"/>firſt in motion, and muſt keep it ſtill a going: Which is in plain Engliſh, The King and the Peoples Money, <hi>viz.</hi> The Branch of Exciſe upon Salt, in the Port of <hi>New-Caſtle</hi> and its Members; Together with Exciſe upon Beer, Ale and Spirits in <hi>Northumberland, Biſhoprick,</hi> and Part of <hi>Yorkſhire;</hi> which together one and all, amounts to Two hundred thouſand Pounds <hi>per Annum;</hi> which 200000 <hi>l.</hi> by Agreement made betwixt the Commiſſioners of Exciſe, and Mr. <hi>Shallett,</hi> is return'd from the North by Mr. <hi>Shallett,</hi> for 8 <hi>s.</hi> in the 100 <hi>l.</hi> into the Treaſury of Exciſe, in <hi>Broad-ſtreet,</hi> London, this 8 <hi>s.</hi> in the 100 <hi>l.</hi> is juſt 800 <hi>l.</hi> clear gain to Mr. <hi>Shallett, per Annum;</hi> Beſides the unſpeakable Benefit, that it has been, and con<g ref="char:EOLhyphen"/>tinues to be to him in his Trade and Credit; but Mr. <hi>Shallett</hi> not content with ſo Profitable and Convenient a Gain, is reſolv'd to make a farther uſe of it; (of which the Commiſſioners of Exciſe, are abſolutely Innocent, and no doubt as ſoon as they diſcover the ill deſigns that the King's Money is put to, they will take care to place it in better hands) which the Nation, or he, muſt repent of at laſt; which I ſhall have occaſion to Explain in anſwering what I know will be offered in his Favour, and thoſe concerned with him.</p>
+            <p n="1">1. It will be offer'd that the Combination will <hi>fall</hi> of its ſelf, for nothing leſs than a Bank of <hi>England</hi> can carry it on: One hundred and thirty thouſand Chaldron of Coals <hi>New-Caſtle</hi> Meaſure, demands a Hundred and thirty thouſand times 16 <hi>s.</hi> which is 104000 <hi>l.</hi> to Buy up and Ship theſe Coals with; which no private Man or pri<g ref="char:EOLhyphen"/>vate Company of Men can advance upon this Occaſion.</p>
+            <p>
+               <hi>Anſw.</hi> Mr. <hi>Shallett,</hi> having the Return of the 200000 <hi>l.</hi> ariſing from the above-mention'd Branches of the Exciſe, can very con<g ref="char:EOLhyphen"/>veniently Pay down the 104000 <hi>l.</hi> demanded, and having 28 Days time allow'd him to make his Returns in; the Coal within that Interval will be brought to <hi>London,</hi> and turn'd into Money; the Collier-Trade being always upon Prompt Payment, and rea<g ref="char:EOLhyphen"/>dy Money, both at the Loadning and Unloadning Ports.</p>
+            <p n="2">2. It will be offer'd, That the Combination is Juſtifiable by Law, for there is a <hi>Saving</hi> in the Statute againſt Monopolies for the Hoſt<g ref="char:EOLhyphen"/>mans Company at <hi>New-Caſtle:</hi> And this Combination is Counte<g ref="char:EOLhyphen"/>nanc'd by the ſaid Hoſtmans Company.</p>
+            <pb n="5" facs="tcp:47825:3"/>
+            <p> 
+               <hi>Anſw.</hi> It is granted there is a <hi>Saving</hi> in the Statute in favour of the Hoſtmans Company, but whether this Combination is ap<g ref="char:EOLhyphen"/>prov'd or not approv'd by an Act of the Hoſtmans Company, is a Diſpute; but grant the Combination is, or ſhall be approv'd by that Company; It is anſwered, the Company cannot exceed the Powers and Authorities of their Patent and Inſtitution. That Company is indeed in Poſſeſſion of Regulating the Price of Coals within the River <hi>Tine,</hi> and obliging its Members to ſell at a reaſo<g ref="char:EOLhyphen"/>nable Price with Profit to the Coal-Owners; but then, <hi>All Buyers are Welcom for their Money:</hi> But ſure it never was pretended before now, that this Hoſtmans Company could Authorize her Mem<g ref="char:EOLhyphen"/>bers, the Coal-Owners, to Sell and Vend no Coals but to One particular Man or Company of Men, which is the Caſe here complain'd of; Mr. <hi>Shallett</hi> by his Covenants having the Coal-Owners tied up to Sell no Coals but to him, and Company or Order, which certainly is a manifeſt Monopoly both in him and the Coal-Owners, and without the <hi>Saving</hi> in the Act againſt Monopolies.</p>
+            <p n="3">3. It is offered, Mr. <hi>Shallett</hi> has not agreed with all the Coal-Owners in the River <hi>Tine;</hi> for Sir <hi>James Claverin,</hi> and others, ſtand out, and refuſe to come into the Combination, nor neither will the Coal-Owners in the River <hi>Wear</hi> (or the Port of <hi>Sunderland</hi>) nor the Coal-Owners in the Ports of <hi>Collar Coats, Blyth</hi> or <hi>Seaton,</hi> come into it.</p>
+            <p>
+               <hi>Anſw. Collar Coats, Seaton,</hi> and <hi>Blyth,</hi> Mr. <hi>Shallett</hi> never in<g ref="char:EOLhyphen"/>tended to comprehend in this Combination; the Coals exported from theſe Ports are not at all fit for the Forge or the Furnace, and for Domeſtick Uſe little better, as all the World knows, and the <hi>Blyth</hi> Undertakers will witneſs with Sorrow. Mr. <hi>Shal<g ref="char:EOLhyphen"/>lett</hi> has made offers to the Coal-Owners in the River <hi>Wear</hi> (or the Port of <hi>Sunderland</hi>) to let them come into the Combination, but hitherto they have rejected them, as Sir <hi>James Claverin</hi> within the River <hi>Tine</hi> has likewiſe done. But it is notoriouſly known, that all the ſtanding out Collieries and Coal-Owners in both Rivers, <hi>Tine</hi> and <hi>Wear,</hi> are not able to work Seven Thouſand <hi>Tenns</hi> of Coals, which can anſwer the demands of the Forge, the Furnace and Domeſtick Uſe (Pan-Coal excepted, which is not underſtood
+<pb n="6" facs="tcp:47825:4"/>to be within the State of the Debate in hand) ſo that this 7000 <hi>Tenns</hi> being added to the 13000 <hi>Tenns,</hi> makes in all but 20000 <hi>Tenns,</hi> inſtead of 30000 <hi>Tenns;</hi> which has been the Medium of the Vend and Export of Coals from both Rivers ſince the War. Thus the Coal-Works being laid in one Third, the Price of Coals muſt neceſſarily riſe one Third; and under 30 <hi>s.</hi> the <hi>London</hi> Chaldron Coals cannot be expected.</p>
+            <p n="4">4. It will be offered this Monopoly will be of Service to the Navigation, for Mr. <hi>Shallett</hi> pretends to Fraight moſt part of the Collier Ships, and give them certain Profit at leaſt 6 <hi>s.</hi> and 6 <hi>d. per London</hi> Chaldron; whereas they go now, and have gone ſince the late Act of 5 <hi>s. per</hi> Chaldron upon Coals, for 5 <hi>s.</hi> or leſs the <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Chaldron.</p>
+            <p>
+               <hi>Anſw.</hi> This is, indeed, what Mr. <hi>Shallett</hi> pretends; but it is all over Impoſition. To ſay the Combination will be a Service to the Navigation, is an audacious Affront to common Senſe and univerſal Experience. The Combination reduces the Vending and Shipping of Coals one <hi>Third,</hi> and conſequently the Navigating the ſame one <hi>Third</hi> too; So that the Navigation, and all that depends upon it, both in the Loadning, and Unloadning Ports, muſt be re<g ref="char:EOLhyphen"/>duced one <hi>Third;</hi> and there is not a Maſter of a Ship, nor a Sailor in <hi>England,</hi> nor a Keel-man, a Ballaſt-man, a Fitter at <hi>New-Caſtle,</hi> nor a Labourer, a Crimp, a Coal-merchant at <hi>London,</hi> nor a Man of common ſenſe but will affirm the Truth of this Anſwer, and the Falſhood of Mr. <hi>Shallett</hi>'s Inſinuation. Mr. <hi>Shallett,</hi> indeed, by propoſing 6 <hi>s.</hi> and 6 <hi>d.</hi> or 7 <hi>s. Fraight</hi> for a <hi>London</hi> Chaldron, do's make a ſhow of Serving the Owners of Ships; but in reality they can reap no Profit by it; for the Shipping will not make above half of the Voyages under the Combinators they did before, which will raiſe an Advance, both upon the <hi>Maſters</hi> and <hi>Sailors Wages;</hi> and the Charge of Victualling above what Mr. <hi>Shallett</hi> pretends by the Advance of Fraight. For the <hi>Maſter,</hi> and <hi>Sailors</hi> will have dou<g ref="char:EOLhyphen"/>ble <hi>Wages,</hi> when they can <hi>make</hi> but <hi>Four Voyages</hi> in ſtead of <hi>Eight,</hi> and yet they will eat no leſs Proviſions in the Four Voy<g ref="char:EOLhyphen"/>ages, than they did in <hi>Eight;</hi> for the Ship has her whole Equipage aboard, the whole Trade Seaſon, and whether ſhe be at Sea or in Harbour, the Charge is the ſame. Mr. <hi>Shallett</hi> by his Combina<g ref="char:EOLhyphen"/>tion,
+<pb n="7" facs="tcp:47825:4"/>will ſurely have Occaſion to imploy the Ships he has any Parts in, which indeed are very many, he being eſteem'd to have more Money in Parts of Shipping than any Man in <hi>England:</hi> And after thoſe are well imployed, no doubt, he will next prefer thoſe Ships that his Confederates, the Coal-Owners, have any parts in, and theſe are not a few; ſo here is a <hi>Wheel</hi> within a <hi>Wheel,</hi> a <hi>Monopoly</hi> upon a <hi>Monopoly;</hi> Mr. <hi>Shallett</hi> muſt not only have all the Coals in his own hands, but he muſt have no <hi>Ships</hi> but his <hi>own,</hi> and his <hi>Confederates,</hi> to carry <hi>them;</hi> and, no doubt, none but his and their Servants, to Load, Deliver, and Vend <hi>them.</hi>
+            </p>
+            <p>It muſt be acknowledged, and it can never be too much regra<g ref="char:EOLhyphen"/>ted, that the Navigation goes to wrack, and is at preſent <hi>Periſhed</hi> to a <hi>Degree</hi> beyond what is conſiſtent with the Safety and Tranqui<g ref="char:EOLhyphen"/>lity of <hi>England.</hi> The Ships go to Sea, and return without Profit to the Owners, but the true Reaſon lies in the <hi>Super-pluſage</hi> of Tunnage in Shipping, we are poſſeſſed of above the <hi>Bulk of Cargo</hi> we have to fill and Imploy our <hi>Shipping,</hi> either in their Imports or Exports, The War raiſed this Increaſe of Shipping, confin'd it to <hi>Convoys,</hi> and reduced the Number of Voyages, and conſe<g ref="char:EOLhyphen"/>quently increas'd the <hi>Number of Ships.</hi> The Peace took off the Confinement, and one Third of our Shipping wanted due Imploy<g ref="char:EOLhyphen"/>ment, which certainly ought to have put us upon increaſing our Bulk of Cargo, or the Extent of our Trade: But inſtead of this, we have diminiſhed our Bulk of Trade by the Miſchievous 5 <hi>s.</hi> Tax upon Coal; and yet under thoſe unhappy Circumſtances, the Shipping muſt all go to Sea, every one Endeavours to Sell cheaper than another, that they may run faſter than another, and thus they have gone ſince the Tax, and run the Coals off their due Price, the Owners out of their Profit, the Ship out of Stock, and the Poor Maſters, and Sailors out of Wages, and Victuals, and all concerned in Navigation out of Heart, and many out of their Senſes. And for an Improvement and Increaſe of this Cala<g ref="char:EOLhyphen"/>mity, Mr. <hi>Shallett</hi> will lay on 5 or 10 <hi>s.</hi> more at his Diſcretion, upon the Chaldron of Coals, and make a Reduction of another Third in the Collier-Trade, and all that depends upon it; and at the ſame time, will have us to underſtand it to be for the Service of the Navigation.</p>
+            <p>Theſe Things are, what I hear the <hi>Combinators</hi> offer for them<g ref="char:EOLhyphen"/>ſelves, or Mr. <hi>Shallett</hi> in their Names; and I am afraid, it is all
+<pb n="8" facs="tcp:47825:5"/>that can be ſaid for their Juſtification: I aſſure you, my Friend, if I were Conſcious of any real Benefit their <hi>Project</hi> would be to the Nation in general, I ſhould not fail to repreſent it to you, and give it the beſt <hi>Colour</hi> I could lay upon it; but as I know nothing that can be urged for its Defence, ſo I cannot forbear to give my Opinion, againſt the <hi>Combination,</hi> as a <hi>Pernicious</hi> and <hi>Dangerous Monopoly,</hi> which muſt produce moſt terrible <hi>Effects</hi> and <hi>Con<g ref="char:EOLhyphen"/>fuſions,</hi> for it cannot fail to lay the Navigation by the <hi>Walls,</hi> or wear it out at <hi>Sea,</hi> or <hi>Starve</hi> it in our <hi>Harbours;</hi> Diminiſh the Collier-Trade one <hi>Third,</hi> and leſſen His Majeſty's Duties upon Coal, <hi>Coaſtwayes,</hi> and <hi>Over-Sea</hi> to the ſame <hi>Proportion.</hi> The Orphans Fund, and Cities Mettage will have the ſame Share in the <hi>Cala<g ref="char:EOLhyphen"/>mity;</hi> and if this will not move us, we ſhall have the Cries and Curſes of the Poor to <hi>Rouze</hi> us. Nor can we expect better Lan<g ref="char:EOLhyphen"/>guage from the Houſe-keeper, the Brewer, the Glaſs-maker, the Salter, the Smith, and all the Manufactorers, and Workers with Fire, who are One and All too nearly concerned to be ſilent upon this <hi>Occaſion.</hi> Indeed, one would think the vaſt number of Per<g ref="char:EOLhyphen"/>ſons and Trades this Monopoly muſt deal with, would fright any one Man from the Attempt, or at leaſt out of hopes of ſucceeding in it; but Mr. <hi>Shallett</hi> is a Man of Invincible Courage, Nothing is too bold or daring for him. This intended Engagement is not to be Parallel'd in Story, nay, not by that Prodigious Attempt the King of <hi>Sweden</hi> made upon the <hi>Muſcovites.</hi> That King had to deal with <hi>Muſcovites</hi> indeed, but Mr. <hi>Shallett</hi> has <hi>Engliſhmen</hi> to En<g ref="char:EOLhyphen"/>counter him. That great Prince had the Vows and Prayers of <hi>Europe</hi> on his Side; but this Man has the Curſes of all <hi>England</hi> to attend him, from whoſe heavy Conſequences, I pray God deliver him; which ſhall ever be the Prayer of</p>
+            <closer>
+               <signed>Your moſt Humble and obliged Servant.</signed>
+            </closer>
+            <pb facs="tcp:47825:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
